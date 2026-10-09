@@ -1,0 +1,15 @@
+C:\Users\mg\2026-2027\DevOps_TT2024V\devops_26_27_csharp\VowelCounterApp\bin\Debug\net10.0\VowelCounterApp.exe
+C:\Users\mg\2026-2027\DevOps_TT2024V\devops_26_27_csharp\VowelCounterApp\bin\Debug\net10.0\VowelCounterApp.deps.json
+C:\Users\mg\2026-2027\DevOps_TT2024V\devops_26_27_csharp\VowelCounterApp\bin\Debug\net10.0\VowelCounterApp.runtimeconfig.json
+C:\Users\mg\2026-2027\DevOps_TT2024V\devops_26_27_csharp\VowelCounterApp\bin\Debug\net10.0\VowelCounterApp.dll
+C:\Users\mg\2026-2027\DevOps_TT2024V\devops_26_27_csharp\VowelCounterApp\bin\Debug\net10.0\VowelCounterApp.pdb
+C:\Users\mg\2026-2027\DevOps_TT2024V\devops_26_27_csharp\VowelCounterApp\obj\Debug\net10.0\VowelCounterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mg\2026-2027\DevOps_TT2024V\devops_26_27_csharp\VowelCounterApp\obj\Debug\net10.0\VowelCounterApp.AssemblyInfoInputs.cache
+C:\Users\mg\2026-2027\DevOps_TT2024V\devops_26_27_csharp\VowelCounterApp\obj\Debug\net10.0\VowelCounterApp.AssemblyInfo.cs
+C:\Users\mg\2026-2027\DevOps_TT2024V\devops_26_27_csharp\VowelCounterApp\obj\Debug\net10.0\VowelCounterApp.csproj.CoreCompileInputs.cache
+C:\Users\mg\2026-2027\DevOps_TT2024V\devops_26_27_csharp\VowelCounterApp\obj\Debug\net10.0\VowelCounterApp.sourcelink.json
+C:\Users\mg\2026-2027\DevOps_TT2024V\devops_26_27_csharp\VowelCounterApp\obj\Debug\net10.0\VowelCounterApp.dll
+C:\Users\mg\2026-2027\DevOps_TT2024V\devops_26_27_csharp\VowelCounterApp\obj\Debug\net10.0\refint\VowelCounterApp.dll
+C:\Users\mg\2026-2027\DevOps_TT2024V\devops_26_27_csharp\VowelCounterApp\obj\Debug\net10.0\VowelCounterApp.pdb
+C:\Users\mg\2026-2027\DevOps_TT2024V\devops_26_27_csharp\VowelCounterApp\obj\Debug\net10.0\VowelCounterApp.genruntimeconfig.cache
+C:\Users\mg\2026-2027\DevOps_TT2024V\devops_26_27_csharp\VowelCounterApp\obj\Debug\net10.0\ref\VowelCounterApp.dll
